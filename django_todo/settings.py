@@ -26,7 +26,7 @@ SECRET_KEY = 'ofs=ih^hnb+%^zzvqy%icr_yrhh@22%6lx!x6com2#%#93i9lo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['djano-todo-janbrits.c9users.io']
+ALLOWED_HOSTS = ['djano-todo-janbrits.c9users.io','simple-django-todo-jan.herokuapp.com']
 
 
 # Application definition
